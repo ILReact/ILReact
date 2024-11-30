@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ILReact
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning ReactJs and JS
+- 👋 Hi, I’m Ilya .I mapper for Stalker14Hardcore
 
 <!---
 ILReact/ILReact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
